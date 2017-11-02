@@ -136,8 +136,13 @@
     <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float2.cs" />
     <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float3.cs" />
     <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float4.cs" />
-    <Compile Include="Assets\Sample\FsSaveData.cs" />
+    <Compile Include="Assets\Sample\SwitchPrefs\SaveData.cs" />
+    <Compile Include="Assets\Sample\SwitchSaveTool\FsSaveData.cs" />
+    <Compile Include="Assets\YehTool\DefaultTool.cs" />
     <Compile Include="Assets\YehTool\SwitchTool.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\readme.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

@@ -8,30 +8,30 @@
 
 ----- il2cpp Statistics -----
 General:
-	Conversion Time: 19.091 s
-	Files Written: 2616
-	String Literals: 2900
+	Conversion Time: 15.769 s
+	Files Written: 2627
+	String Literals: 2899
 Methods:
-	Total Methods: 16135
-	Non-Generic Methods: 11450
-	Generic Type Methods: 3517
+	Total Methods: 16160
+	Non-Generic Methods: 11465
+	Generic Type Methods: 3527
 	Generic Methods: 1168
-	Shared Methods: 4659
+	Shared Methods: 4669
 	Methods with Tail Calls : 0
 Metadata:
-	Total: 1,997.6 kb
-	String Literals: 22.7 kb
+	Total: 1,999.2 kb
+	String Literals: 22.6 kb
 	String Literal Data: 65.3 kb
 	Metadata Strings: 207.3 kb
 	Events: 0.4 kb
 	Properties: 55.9 kb
-	Methods: 683.8 kb
+	Methods: 684.5 kb
 	Parameter Default Values: 0.0 kb
 	Field Default Values: 27.4 kb
 	Field and Parameter Default Values Data: 41.9 kb
 	Field Marshaled Sizes: 6.5 kb
-	Parameters: 215.4 kb
-	Fields: 112.9 kb
+	Parameters: 215.6 kb
+	Fields: 113.0 kb
 	Generic Parameters: 3.5 kb
 	Generic Parameter Constraints: 0.1 kb
 	Generic Containers: 2.9 kb
@@ -39,12 +39,12 @@ Metadata:
 	Interfaces: 2.8 kb
 	VTables: 77.3 kb
 	Interface Offsets: 17.0 kb
-	Type Definitions: 187.9 kb
-	RGCTX Entries: 4.2 kb
+	Type Definitions: 188.1 kb
+	RGCTX Entries: 4.1 kb
 	Images: 0.2 kb
 	Assemblies: 0.5 kb
-	Metadata Usage Lists: 56.1 kb
-	Metadata Usage Pairs: 165.3 kb
+	Metadata Usage Lists: 56.3 kb
+	Metadata Usage Pairs: 165.6 kb
 	Field Refs: 0.7 kb
 	Referenced Assemblies: 0.1 kb
 	Attribute Types Ranges: 20.5 kb
@@ -69,29 +69,29 @@ Interop:
 	COM callable wrapper methods that were forwarded to call base class method : 0
 Compilation:
 	Total Files: 484
-	Files Compiled: 34
-	Cache Hits: 450
-	Cache Hit %: 92
+	Files Compiled: 99
+	Cache Hits: 385
+	Cache Hit %: 79
 
 
 ----Assembly Conversion Times----
-	Convert Assembly-CSharp (561.0321ms)
-	Convert Mono.Security (822.047ms)
-	Convert mscorlib (4143.237ms)
-	Convert System (699.04ms)
-	Convert System.Core (114.0065ms)
-	Convert UnityEngine (1187.0679ms)
-	Convert UnityEngine.UI (1303.0746ms)
+	Convert Assembly-CSharp (380.0218ms)
+	Convert Mono.Security (591.0338ms)
+	Convert mscorlib (3835.2194ms)
+	Convert System (644.0368ms)
+	Convert System.Core (75.0043000000005ms)
+	Convert UnityEngine (837.0479ms)
+	Convert UnityEngine.UI (887.0507ms)
 
 ----Misc Timing----
-	PreProcessStage: 2615.1496
-	GenericsCollector.Collect: 1530.0875
-	WriteGenerics: 4429.2533
-	AllAssemblyConversion: 8829.5051
+	PreProcessStage: 2394.1369
+	GenericsCollector.Collect: 1379.0789
+	WriteGenerics: 3045.1741
+	AllAssemblyConversion: 7249.4147
 
 ----Generated Files----
 AssemblyU2DCSharp_C3938918185.h	811
-AssemblyU2DCSharp_FsSaveData191170490.h	6802
+AssemblyU2DCSharp_FsSaveData191170490.h	6672
 AssemblyU2DCSharp_nn_account_Account2499231255.h	2581
 AssemblyU2DCSharp_nn_account_AsyncContext955329261.h	997
 AssemblyU2DCSharp_nn_account_NetworkServiceAccount2441933481.h	917
@@ -216,14 +216,17 @@ AssemblyU2DCSharp_nn_util_Color4u81633930318.h	1852
 AssemblyU2DCSharp_nn_util_Float23073508110.h	1150
 AssemblyU2DCSharp_nn_util_Float3344624755.h	1475
 AssemblyU2DCSharp_nn_util_Float42266939056.h	1808
-AssemblyU2DCSharp_RHUtil_Switch383705573.h	4027
 AssemblyU2DCSharp_Sample_State182264768.h	929
 AssemblyU2DCSharp_Sample3942631702.h	1021
+AssemblyU2DCSharp_SaveData450951007.h	5176
 AssemblyU2DCSharp_U3CModuleU3E3783534214.h	443
+AssemblyU2DCSharp_Yeh_SwitchTools_Switch_SaveData_1380290746.h	5766
 AssemblyU2DCSharp_Yeh_SwitchTools_Switch_SaveData_1997862593.h	5768
-AssemblyU2DCSharp_Yeh_SwitchTools_Switch_SaveData_2251045000.h	5770
-Bulk_Assembly-CSharp_0.cpp	558020
-Bulk_Assembly-CSharp_1.cpp	120495
+AssemblyU2DCSharp_Yeh_SwitchTools_Switch_SaveData_2580105800.h	5828
+AssemblyU2DCSharp_Yeh_SwitchTools_SwitchPref_SaveD4271692502.h	1249
+AssemblyU2DCSharp_Yeh_SwitchTools_SwitchPref4068640557.h	1955
+Bulk_Assembly-CSharp_0.cpp	555838
+Bulk_Assembly-CSharp_1.cpp	149269
 Bulk_Generics_0.cpp	1052782
 Bulk_Generics_1.cpp	925598
 Bulk_Generics_2.cpp	334071
@@ -233,7 +236,7 @@ Bulk_Generics_5.cpp	569
 Bulk_Generics_6.cpp	175655
 Bulk_Generics_7.cpp	1732506
 Bulk_Generics_8.cpp	366151
-Bulk_Generics_9.cpp	62697
+Bulk_Generics_9.cpp	86795
 Bulk_Mono.Security_0.cpp	1472155
 Bulk_Mono.Security_1.cpp	565596
 Bulk_mscorlib_0.cpp	1657847
@@ -257,8 +260,8 @@ GeneratedGenericInterfaceInvokers.h	151
 GeneratedGenericVirtualInvokers.h	151
 GeneratedInterfaceInvokers.h	5559
 GeneratedVirtualInvokers.h	6888
-GenericMethods0.cpp	2066979
-GenericMethods1.cpp	624251
+GenericMethods0.cpp	2064443
+GenericMethods1.cpp	623636
 Il2CppAttributes.cpp	1256771
 Il2CppCodeRegistration.cpp	1343
 Il2CppCompilerCalculateTypeValues_0Table.cpp	31552
@@ -270,7 +273,7 @@ Il2CppCompilerCalculateTypeValues_14Table.cpp	37406
 Il2CppCompilerCalculateTypeValues_15Table.cpp	37544
 Il2CppCompilerCalculateTypeValues_16Table.cpp	50228
 Il2CppCompilerCalculateTypeValues_17Table.cpp	48184
-Il2CppCompilerCalculateTypeValues_18Table.cpp	28445
+Il2CppCompilerCalculateTypeValues_18Table.cpp	29181
 Il2CppCompilerCalculateTypeValues_1Table.cpp	39672
 Il2CppCompilerCalculateTypeValues_2Table.cpp	52676
 Il2CppCompilerCalculateTypeValues_3Table.cpp	58550
@@ -280,19 +283,19 @@ Il2CppCompilerCalculateTypeValues_6Table.cpp	40593
 Il2CppCompilerCalculateTypeValues_7Table.cpp	39916
 Il2CppCompilerCalculateTypeValues_8Table.cpp	35299
 Il2CppCompilerCalculateTypeValues_9Table.cpp	45243
-Il2CppCompilerCalculateTypeValuesTable.cpp	262612
-Il2CppGenericClassTable.cpp	256948
+Il2CppCompilerCalculateTypeValuesTable.cpp	262945
+Il2CppGenericClassTable.cpp	258118
 Il2CppGenericComDefinitions0.cpp	190
-Il2CppGenericInstDefinitions.cpp	217513
-Il2CppGenericMethodDefinitions.cpp	103840
-Il2CppGenericMethodPointerTable.cpp	820554
-Il2CppGenericMethodTable.cpp	559880
+Il2CppGenericInstDefinitions.cpp	218211
+Il2CppGenericMethodDefinitions.cpp	104047
+Il2CppGenericMethodPointerTable.cpp	821950
+Il2CppGenericMethodTable.cpp	561221
 Il2CppInteropDataTable.cpp	63562
 Il2CppInvokerTable.cpp	1006581
 Il2CppMetadataRegistration.cpp	1120
-Il2CppMetadataUsage.cpp	1146376
-Il2CppMethodPointerTable.cpp	1170431
-Il2CppTypeDefinitions.cpp	1634734
+Il2CppMetadataUsage.cpp	1148785
+Il2CppMethodPointerTable.cpp	1171595
+Il2CppTypeDefinitions.cpp	1638940
 Mono_Security_Locale4255929014.h	504
 Mono_Security_Mono_Math_BigInteger_Kernel1353186455.h	525
 Mono_Security_Mono_Math_BigInteger_ModulusRing80355991.h	1635
@@ -660,6 +663,7 @@ mscorlib_System_Array_InternalEnumerator_1_gen313372414.h	1502
 mscorlib_System_Array_InternalEnumerator_1_gen3150258312.h	1527
 mscorlib_System_Array_InternalEnumerator_1_gen3194923659.h	1474
 mscorlib_System_Array_InternalEnumerator_1_gen3205831632.h	1490
+mscorlib_System_Array_InternalEnumerator_1_gen3220326041.h	1506
 mscorlib_System_Array_InternalEnumerator_1_gen3250434828.h	1561
 mscorlib_System_Array_InternalEnumerator_1_gen325215819.h	1469
 mscorlib_System_Array_InternalEnumerator_1_gen3254291422.h	1460
@@ -856,6 +860,7 @@ mscorlib_System_Collections_Generic_Comparer_1_gen94267937.h	1300
 mscorlib_System_Collections_Generic_Comparer_1_gen961886567.h	1292
 mscorlib_System_Collections_Generic_Dictionary_2_E1011714116.h	2757
 mscorlib_System_Collections_Generic_Dictionary_2_E1180093882.h	2789
+mscorlib_System_Collections_Generic_Dictionary_2_E1629285963.h	2754
 mscorlib_System_Collections_Generic_Dictionary_2_E1659394750.h	2864
 mscorlib_System_Collections_Generic_Dictionary_2_E1927635060.h	2808
 mscorlib_System_Collections_Generic_Dictionary_2_E2278680265.h	2770
@@ -879,6 +884,7 @@ mscorlib_System_Collections_Generic_Dictionary_2_g3417634846.h	7762
 mscorlib_System_Collections_Generic_Dictionary_2_g3714688016.h	7785
 mscorlib_System_Collections_Generic_Dictionary_2_g3986656710.h	7694
 mscorlib_System_Collections_Generic_Dictionary_2_g4155036476.h	7797
+mscorlib_System_Collections_Generic_Dictionary_2_ge309261261.h	7740
 mscorlib_System_Collections_Generic_Dictionary_2_ge339370048.h	7940
 mscorlib_System_Collections_Generic_Dictionary_2_ge607610358.h	7813
 mscorlib_System_Collections_Generic_Dictionary_2_ge958655563.h	7721
@@ -894,6 +900,7 @@ mscorlib_System_Collections_Generic_Dictionary_2_S3522759667.h	1299
 mscorlib_System_Collections_Generic_Dictionary_2_S3819812837.h	1305
 mscorlib_System_Collections_Generic_Dictionary_2_S4091781531.h	1301
 mscorlib_System_Collections_Generic_Dictionary_2_S4260161297.h	1317
+mscorlib_System_Collections_Generic_Dictionary_2_Sh414386082.h	1300
 mscorlib_System_Collections_Generic_Dictionary_2_Sh444494869.h	1355
 mscorlib_System_Collections_Generic_Dictionary_2_Sh712735179.h	1327
 mscorlib_System_Collections_Generic_Dictionary_2_T1006788627.h	1175
@@ -906,12 +913,14 @@ mscorlib_System_Collections_Generic_Dictionary_2_T1676220171.h	916
 mscorlib_System_Collections_Generic_Dictionary_2_T1841866915.h	1059
 mscorlib_System_Collections_Generic_Dictionary_2_T1872503679.h	1035
 mscorlib_System_Collections_Generic_Dictionary_2_T1901028561.h	782
+mscorlib_System_Collections_Generic_Dictionary_2_T2051172159.h	950
 mscorlib_System_Collections_Generic_Dictionary_2_T2154239285.h	952
 mscorlib_System_Collections_Generic_Dictionary_2_T2213854845.h	920
 mscorlib_System_Collections_Generic_Dictionary_2_T2260454664.h	871
 mscorlib_System_Collections_Generic_Dictionary_2_T2343594867.h	958
 mscorlib_System_Collections_Generic_Dictionary_2_T2462872699.h	1098
 mscorlib_System_Collections_Generic_Dictionary_2_T2691873959.h	956
+mscorlib_System_Collections_Generic_Dictionary_2_T2738473778.h	907
 mscorlib_System_Collections_Generic_Dictionary_2_T2851825221.h	1028
 mscorlib_System_Collections_Generic_Dictionary_2_T2978360615.h	1001
 mscorlib_System_Collections_Generic_Dictionary_2_T2990554165.h	832
@@ -938,6 +947,7 @@ mscorlib_System_Collections_Generic_Dictionary_2_V2294143122.h	1326
 mscorlib_System_Collections_Generic_Dictionary_2_V2417747859.h	1357
 mscorlib_System_Collections_Generic_Dictionary_2_V2689716553.h	1341
 mscorlib_System_Collections_Generic_Dictionary_2_V2858096319.h	1373
+mscorlib_System_Collections_Generic_Dictionary_2_V3307288400.h	1338
 mscorlib_System_Collections_Generic_Dictionary_2_V3337397187.h	1448
 mscorlib_System_Collections_Generic_Dictionary_2_V3350470340.h	1298
 mscorlib_System_Collections_Generic_Dictionary_2_V3383807694.h	1298
@@ -1046,6 +1056,7 @@ mscorlib_System_Collections_Generic_KeyValuePair_21174980068.h	1448
 mscorlib_System_Collections_Generic_KeyValuePair_21472033238.h	1606
 mscorlib_System_Collections_Generic_KeyValuePair_21744001932.h	1434
 mscorlib_System_Collections_Generic_KeyValuePair_21912381698.h	1503
+mscorlib_System_Collections_Generic_KeyValuePair_22361573779.h	1552
 mscorlib_System_Collections_Generic_KeyValuePair_22391682566.h	1766
 mscorlib_System_Collections_Generic_KeyValuePair_22659922876.h	1596
 mscorlib_System_Collections_Generic_KeyValuePair_23010968081.h	1511
