@@ -1,0 +1,139 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp.dll
+-unsafe
+-r:"C:/Program Files/Unity/Editor/Data/PlaybackEngines/Switch/Tools/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_6_OR_NEWER
+-define:UNITY_5_6_3
+-define:UNITY_5_6
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CLOTH
+-define:ENABLE_GENERICS
+-define:ENABLE_PVR_GI
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_RUNTIME_NAVMESH_BUILDING
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:ENABLE_NATIVE_ARRAY
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_SWITCH
+-define:UNITY_SWITCH_API
+-define:UNITY_GFX_USE_PLATFORM_VSYNC
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_NETWORK
+-define:ENABLE_PLATFORMSOCKETS
+-define:ENABLE_UNET
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_IL2CPP
+-define:NET_2_0_SUBSET
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_NATIVE_ARRAY_CHECKS
+-define:UNITY_TEAM_LICENSE
+-define:ENABLE_VSTU
+Assets/NintendoSDKPlugin/nn/account/account_Api.cs
+Assets/NintendoSDKPlugin/nn/account/account_ApiForApplications.cs
+Assets/NintendoSDKPlugin/nn/account/account_AsyncContext.cs
+Assets/NintendoSDKPlugin/nn/account/account_Config.cs
+Assets/NintendoSDKPlugin/nn/account/account_Result.public.cs
+Assets/NintendoSDKPlugin/nn/account/account_Selector.cs
+Assets/NintendoSDKPlugin/nn/account/account_Types.cs
+Assets/NintendoSDKPlugin/nn/aoc/aoc_Api.cs
+Assets/NintendoSDKPlugin/nn/err/err_ShowErrorApi.cs
+Assets/NintendoSDKPlugin/nn/err/err_ShowUnacceptableApplicationVersionErrorApi.cs
+Assets/NintendoSDKPlugin/nn/err/err_Types.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_AddOnContent.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_Directory.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_File.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_FileSystem.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_Host.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_Mount.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_Result.public.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_Rom.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_RomForDebug.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_SaveData.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_SaveDataForDebug.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_SaveDataTransaction.cs
+Assets/NintendoSDKPlugin/nn/fs/fs_SdCardForDebug.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_AnalogStickState.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_ControllerSupport.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_DebugPad.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_Gesture.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadCommon.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadFullKey.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadHandheld.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadJoyCommon.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadJoyDual.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadJoyLeft.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_NpadJoyRight.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_Result.controller.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_Result.controllerSupport.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_Result.public.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_SixAxisSensor.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_TouchScreen.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_VibrationDeviceApi.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_VibrationFileApi.cs
+Assets/NintendoSDKPlugin/nn/hid/hid_VibrationValueTypes.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_ClusteringProcessorApi.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_ClusteringProcessorTypes.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_ImageProcessorApi.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_ImageProcessorTypes.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_IrCameraApi.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_IrCameraTypes.cs
+Assets/NintendoSDKPlugin/nn/irsensor/irsensor_Result.public.cs
+Assets/NintendoSDKPlugin/nn/nn.cs
+Assets/NintendoSDKPlugin/nn/nn_Abort.cs
+Assets/NintendoSDKPlugin/nn/nn_Result.cs
+Assets/NintendoSDKPlugin/nn/oe/oe_ApplicationControlsApis.cs
+Assets/NintendoSDKPlugin/nn/util/util_Color4u8.cs
+Assets/NintendoSDKPlugin/nn/util/util_Float2.cs
+Assets/NintendoSDKPlugin/nn/util/util_Float3.cs
+Assets/NintendoSDKPlugin/nn/util/util_Float4.cs
+Assets/RHUtil_Switch.cs
+Assets/Sample/FsSaveData.cs
+Assets/YehTool/SwitchTool.cs
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll"
+-sdk:unity

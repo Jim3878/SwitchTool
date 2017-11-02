@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "TimeManager.asset",
+  "InitialDate": "2017-10-23T19:07:28.9585948+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "989b858ce3b2dc91657d2f2472a81ecca9c5b009.202",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "681181b8-dfab-4fc3-939d-c6dd06b5ba70"
+    }
+  },
+  "Binaries": {
+    "681181b8-dfab-4fc3-939d-c6dd06b5ba70": {
+      "Id": "681181b8-dfab-4fc3-939d-c6dd06b5ba70",
+      "PackageExpectedSignature": "989b858ce3b2dc91657d2f2472a81ecca9c5b009.202",
+      "DateRecorded": "2017-10-23T11:07:28.9585948Z",
+      "BackupPath": ""
+    }
+  }
+}

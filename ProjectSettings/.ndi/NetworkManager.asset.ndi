@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "NetworkManager.asset",
+  "InitialDate": "2017-10-23T19:07:28.9475941+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "608e40c4f082d0df43fab1cc295af8bbffe68cfa.151",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "75abece3-de0e-4ee5-a1de-17555d46dbe7"
+    }
+  },
+  "Binaries": {
+    "75abece3-de0e-4ee5-a1de-17555d46dbe7": {
+      "Id": "75abece3-de0e-4ee5-a1de-17555d46dbe7",
+      "PackageExpectedSignature": "608e40c4f082d0df43fab1cc295af8bbffe68cfa.151",
+      "DateRecorded": "2017-10-23T11:07:28.9475941Z",
+      "BackupPath": ""
+    }
+  }
+}

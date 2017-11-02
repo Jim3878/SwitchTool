@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "ClusterInputManager.asset",
+  "InitialDate": "2017-10-23T19:07:28.9315932+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "e30fe31f58685eee9d8a46e59eeb775a8e9dc44b.114",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "fb21ec69-3bb1-4c74-ace5-978fcf6f3df7"
+    }
+  },
+  "Binaries": {
+    "fb21ec69-3bb1-4c74-ace5-978fcf6f3df7": {
+      "Id": "fb21ec69-3bb1-4c74-ace5-978fcf6f3df7",
+      "PackageExpectedSignature": "e30fe31f58685eee9d8a46e59eeb775a8e9dc44b.114",
+      "DateRecorded": "2017-10-23T11:07:28.9315932Z",
+      "BackupPath": ""
+    }
+  }
+}

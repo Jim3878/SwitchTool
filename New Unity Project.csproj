@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BFD958C4-5209-89E8-D1A0-F25854A4DC74}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp.dll</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>Game:1</UnityProjectType>
+    <UnityBuildTarget>Switch:38</UnityBuildTarget>
+    <UnityVersion>5.6.3p4</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_SWITCH;UNITY_SWITCH_API;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_PLATFORMSOCKETS;ENABLE_UNET;ENABLE_EVENT_QUEUE;ENABLE_RUNTIME_GI;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_3;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CLOTH;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;UNITY_SWITCH;UNITY_SWITCH_API;UNITY_GFX_USE_PLATFORM_VSYNC;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_NETWORK;ENABLE_PLATFORMSOCKETS;ENABLE_UNET;ENABLE_EVENT_QUEUE;ENABLE_RUNTIME_GI;ENABLE_IL2CPP;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/Switch/Tools/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_Api.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_ApiForApplications.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_AsyncContext.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_Config.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_Result.public.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_Selector.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\account\account_Types.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\aoc\aoc_Api.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\err\err_ShowErrorApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\err\err_ShowUnacceptableApplicationVersionErrorApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\err\err_Types.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_AddOnContent.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_Directory.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_File.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_FileSystem.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_Host.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_Mount.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_Result.public.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_Rom.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_RomForDebug.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_SaveData.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_SaveDataForDebug.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_SaveDataTransaction.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\fs\fs_SdCardForDebug.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_AnalogStickState.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_ControllerSupport.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_DebugPad.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_Gesture.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadCommon.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadFullKey.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadHandheld.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadJoyCommon.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadJoyDual.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadJoyLeft.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_NpadJoyRight.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_Result.controller.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_Result.controllerSupport.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_Result.public.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_SixAxisSensor.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_TouchScreen.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_VibrationDeviceApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_VibrationFileApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\hid\hid_VibrationValueTypes.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_ClusteringProcessorApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_ClusteringProcessorTypes.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_ImageProcessorApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_ImageProcessorTypes.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_IrCameraApi.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_IrCameraTypes.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\irsensor\irsensor_Result.public.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\nn.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\nn_Abort.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\nn_Result.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\oe\oe_ApplicationControlsApis.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Color4u8.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float2.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float3.cs" />
+    <Compile Include="Assets\NintendoSDKPlugin\nn\util\util_Float4.cs" />
+    <Compile Include="Assets\Sample\FsSaveData.cs" />
+    <Compile Include="Assets\YehTool\SwitchTool.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

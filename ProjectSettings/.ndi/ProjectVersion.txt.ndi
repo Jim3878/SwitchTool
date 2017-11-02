@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "ProjectVersion.txt",
+  "InitialDate": "2017-10-23T19:07:28.9525944+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "7828cec0fbdd89bf1f707fe37171486427e1df18.25",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "766318ca-ec92-43d5-90a7-2a40373861c4"
+    }
+  },
+  "Binaries": {
+    "766318ca-ec92-43d5-90a7-2a40373861c4": {
+      "Id": "766318ca-ec92-43d5-90a7-2a40373861c4",
+      "PackageExpectedSignature": "7828cec0fbdd89bf1f707fe37171486427e1df18.25",
+      "DateRecorded": "2017-10-23T11:07:28.9535945Z",
+      "BackupPath": ""
+    }
+  }
+}

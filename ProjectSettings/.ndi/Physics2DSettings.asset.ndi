@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "Physics2DSettings.asset",
+  "InitialDate": "2017-10-23T19:07:28.9495942+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "75ff9ec4009b6ecfebcb28eaf2899b5a71ff02ba.1330",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "f68ba421-1a8c-4b95-8953-3b61d06b2409"
+    }
+  },
+  "Binaries": {
+    "f68ba421-1a8c-4b95-8953-3b61d06b2409": {
+      "Id": "f68ba421-1a8c-4b95-8953-3b61d06b2409",
+      "PackageExpectedSignature": "75ff9ec4009b6ecfebcb28eaf2899b5a71ff02ba.1330",
+      "DateRecorded": "2017-10-23T11:07:28.9495942Z",
+      "BackupPath": ""
+    }
+  }
+}

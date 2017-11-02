@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "UnityConnectSettings.asset",
+  "InitialDate": "2017-10-23T19:07:28.9605949+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "78468e83c624eb28f1a9050c289d6463581ff8ea.673",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "65a99d93-1947-42ad-b345-a0678ce31e80"
+    }
+  },
+  "Binaries": {
+    "65a99d93-1947-42ad-b345-a0678ce31e80": {
+      "Id": "65a99d93-1947-42ad-b345-a0678ce31e80",
+      "PackageExpectedSignature": "78468e83c624eb28f1a9050c289d6463581ff8ea.673",
+      "DateRecorded": "2017-10-23T11:07:28.9605949Z",
+      "BackupPath": ""
+    }
+  }
+}

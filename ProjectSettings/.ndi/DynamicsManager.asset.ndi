@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "DynamicsManager.asset",
+  "InitialDate": "2017-10-23T19:07:28.9345934+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "80e826883d91682b6717ddde89f06dc190daa93c.715",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "a8dbc963-308b-4b74-b76c-0ada943e1c5b"
+    }
+  },
+  "Binaries": {
+    "a8dbc963-308b-4b74-b76c-0ada943e1c5b": {
+      "Id": "a8dbc963-308b-4b74-b76c-0ada943e1c5b",
+      "PackageExpectedSignature": "80e826883d91682b6717ddde89f06dc190daa93c.715",
+      "DateRecorded": "2017-10-23T11:07:28.9345934Z",
+      "BackupPath": ""
+    }
+  }
+}

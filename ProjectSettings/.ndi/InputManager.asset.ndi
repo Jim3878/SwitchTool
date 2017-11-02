@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "InputManager.asset",
+  "InitialDate": "2017-10-23T19:07:28.9435939+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "4ec4b78438f745dc224150522635ae368c5f023d.5793",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "ba0cd1da-cb83-48d1-bb7f-560589273c09"
+    }
+  },
+  "Binaries": {
+    "ba0cd1da-cb83-48d1-bb7f-560589273c09": {
+      "Id": "ba0cd1da-cb83-48d1-bb7f-560589273c09",
+      "PackageExpectedSignature": "4ec4b78438f745dc224150522635ae368c5f023d.5793",
+      "DateRecorded": "2017-10-23T11:07:28.944594Z",
+      "BackupPath": ""
+    }
+  }
+}

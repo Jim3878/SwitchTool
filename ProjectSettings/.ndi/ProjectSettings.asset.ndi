@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "ProjectSettings.asset",
+  "InitialDate": "2017-10-23T19:07:28.9515944+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "3866cdc6f805af4481643c1db17eea2f919dc81e.16621",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "6469bfbb-d007-4a31-94c4-a56e214b7ffb"
+    }
+  },
+  "Binaries": {
+    "6469bfbb-d007-4a31-94c4-a56e214b7ffb": {
+      "Id": "6469bfbb-d007-4a31-94c4-a56e214b7ffb",
+      "PackageExpectedSignature": "3866cdc6f805af4481643c1db17eea2f919dc81e.16621",
+      "DateRecorded": "2017-10-23T11:07:28.9515944Z",
+      "BackupPath": ""
+    }
+  }
+}

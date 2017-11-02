@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "GraphicsSettings.asset",
+  "InitialDate": "2017-10-23T19:07:28.9415938+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "2163cde6ddc482c28e758a3cacf8d123a0a42c2b.2290",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "0907a532-8d9f-4b80-846b-bf122e0bb8ef"
+    }
+  },
+  "Binaries": {
+    "0907a532-8d9f-4b80-846b-bf122e0bb8ef": {
+      "Id": "0907a532-8d9f-4b80-846b-bf122e0bb8ef",
+      "PackageExpectedSignature": "2163cde6ddc482c28e758a3cacf8d123a0a42c2b.2290",
+      "DateRecorded": "2017-10-23T11:07:28.9425938Z",
+      "BackupPath": ""
+    }
+  }
+}

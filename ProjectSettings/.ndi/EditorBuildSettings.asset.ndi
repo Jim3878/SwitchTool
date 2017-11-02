@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "EditorBuildSettings.asset",
+  "InitialDate": "2017-10-23T19:07:28.9385936+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "8e1a4bafb2ee9c646eb51e8f2bbe127a6dfcec96.191",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "b77a4eb6-8ab4-4654-9a28-d1eb8bf0d726"
+    }
+  },
+  "Binaries": {
+    "b77a4eb6-8ab4-4654-9a28-d1eb8bf0d726": {
+      "Id": "b77a4eb6-8ab4-4654-9a28-d1eb8bf0d726",
+      "PackageExpectedSignature": "8e1a4bafb2ee9c646eb51e8f2bbe127a6dfcec96.191",
+      "DateRecorded": "2017-10-23T11:07:28.9385936Z",
+      "BackupPath": ""
+    }
+  }
+}

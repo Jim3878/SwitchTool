@@ -1,0 +1,24 @@
+﻿{
+  "Version": "2.0.0",
+  "EnvironmentFileName": "NavMeshAreas.asset",
+  "InitialDate": "2017-10-23T19:07:28.945594+08:00",
+  "ReleaseInstallationSequence": [
+    "261059ba-6748-4f53-8ed8-37982ad88e76"
+  ],
+  "Tracking": {
+    "261059ba-6748-4f53-8ed8-37982ad88e76": {
+      "ExpectedSignature": "80b771ebd14cb08d25511b2551f76b77279b8bea.894",
+      "PackageId": "261059ba-6748-4f53-8ed8-37982ad88e76",
+      "Type": 0,
+      "BinaryId": "0aa0d836-c4f5-45d8-87f4-407f05129ac8"
+    }
+  },
+  "Binaries": {
+    "0aa0d836-c4f5-45d8-87f4-407f05129ac8": {
+      "Id": "0aa0d836-c4f5-45d8-87f4-407f05129ac8",
+      "PackageExpectedSignature": "80b771ebd14cb08d25511b2551f76b77279b8bea.894",
+      "DateRecorded": "2017-10-23T11:07:28.9465941Z",
+      "BackupPath": ""
+    }
+  }
+}
